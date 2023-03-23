@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [UBG Fun](https://ubgfun.github.io)!
 - 📫 How to reach me: ubgfun@gmail.com
-- Facebook: [UBG Fun Fanpage](https://www.facebook.com/ubgfun)!
-- Tiktok: [UBG Fun TikTok](https://www.tiktok.com/@ubgfun)!
-- Twitter: [UBG Fun Twitter](https://twitter.com/ubgfun)!
-- Discord: [UBG Fun Discord](https://discord.com/invite/zsH7TtdXSx)!
+- Facebook: [UBG Fun Fanpage](https://www.facebook.com/ubgfun)
+- Tiktok: [UBG Fun TikTok](https://www.tiktok.com/@ubgfun)
+- Twitter: [UBG Fun Twitter](https://twitter.com/ubgfun)
+- Discord: [UBG Fun Discord](https://discord.com/invite/zsH7TtdXSx)
 <!--
 **ubgfun/ubgfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
